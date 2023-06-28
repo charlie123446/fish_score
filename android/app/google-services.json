@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "1089712000439",
+    "firebase_url": "https://bigfish-chg-default-rtdb.firebaseio.com",
+    "project_id": "bigfish-chg",
+    "storage_bucket": "bigfish-chg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089712000439:android:0e07d252b30cda608fac32",
+        "android_client_info": {
+          "package_name": "com.example.fish1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089712000439-02sni3tsb21uuruhh9lmhu17eg2ml8a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6lxR7JNjhVMRQAjp6Pq4lwRMeXoiwooY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089712000439-02sni3tsb21uuruhh9lmhu17eg2ml8a4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1089712000439-a2arf9a7onq59jmsdq4l2v18h5kfnrtr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fishsoc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089712000439:android:1e96d93f8b6d2e658fac32",
+        "android_client_info": {
+          "package_name": "com.example.fishsoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089712000439-veg83p7sdhncpsjq367b7t3jcgk0mtt1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fishsoc",
+            "certificate_hash": "e79238b65611fda1bcfdcfc5fb12a399064ce24a"
+          }
+        },
+        {
+          "client_id": "1089712000439-02sni3tsb21uuruhh9lmhu17eg2ml8a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6lxR7JNjhVMRQAjp6Pq4lwRMeXoiwooY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089712000439-02sni3tsb21uuruhh9lmhu17eg2ml8a4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1089712000439-a2arf9a7onq59jmsdq4l2v18h5kfnrtr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fishsoc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
